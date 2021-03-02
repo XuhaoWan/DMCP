@@ -1,1 +1,2 @@
 # DMCP
+DFT-based Machine learning method for Catalysis Program (DMCP) is developed to implement DFT-based and Machine-learning-accelerated (DFT-ML) scheme for intricate system catalysis.  it is possible to predict the catalytic performance of intricate system catalysis such as DACs and reveal the intrinsic descriptors which determines the underlying catalytic activity of them with appropriate algorithm and train data features.
