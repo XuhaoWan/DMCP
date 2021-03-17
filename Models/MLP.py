@@ -1,9 +1,12 @@
+#If you use DMCP in your research, please cite the following paper:X. Wan, Z. Zhang*, W. Yu, Y. Guo*, A State-of-the-art Density-functional-theory-based and Machine-learning-accelerated Hybrid Method for Intricate System Catalysis. Submitted, 2021.
+
 import numpy as np
 from sklearn.neural_network import MLPRegressor as mlp
 from sklearn.metrics import mean_squared_error as mse
 from sklearn.metrics import r2_score
 from sklearn.model_selection import train_test_split, cross_validate,GridSearchCV
 from sklearn.preprocessing import MinMaxScaler
+
 
 class MLP(object):
     def __init__(self):
