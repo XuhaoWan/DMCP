@@ -1,3 +1,5 @@
+#The DMCP Program can be run in either Linux or Windows operation systems utilizing command lines. 
+#Please install the following compiler in your operation system to run DMCP.
 numpy>=1.20.1
 scipy
 pytorch
