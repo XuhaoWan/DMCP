@@ -3,7 +3,7 @@ DMCP is aimed to implement DFT-based and Machine-learning-accelerated (DFT-ML) s
 # Developer:
 DMCP is developed within Prof. Yuzheng Guo's group in Wuhan University, collaborated with Dr. Zhaofu Zhang in Cambridge University.
 Core developer: Xuhao Wan, Zhaofu Zhang, Wei Yu, and Yuzheng Guo
-Email: yguo@whu.edu.cn, zz389@cam.ac.uk 
+Email: xhwanrm@whu.edu.cn, yguo@whu.edu.cn, zz389@cam.ac.uk 
 # Major Features
 1. Ten machine learning algorithms: GBR, KNR, SVR, GPR, FNN, RFR, ETR, KRR, LASSO, and ENR.
 2. Multiple methods to improve model accuracy: dataset split, cross validation, repeated trails. 
