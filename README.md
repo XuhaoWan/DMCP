@@ -1,7 +1,7 @@
 # DMCP:DFT-based Machine learning method for Catalysis Program
 DMCP is aimed to implement DFT-based and Machine-learning-accelerated (DFT-ML) scheme for intricate system catalysis. It is possible to predict the catalytic performance of intricate system catalysis such as double-atom catalysts (DACs) and to reveal the intrinsic descriptors which determine the underlying catalytic activity of them with appropriate algorithm and train data features.
 # Developer:
-DMCP is developed within Prof. Yuzheng Guo's group in Wuhan University, collaborated with Dr. Zhaofu Zhang in Cambridge University.
+DMCP is developed within Prof. Yuzheng Guo's group in Wuhan University, in colloboration with Dr. Zhaofu Zhang in Cambridge University.
 Core developer: Xuhao Wan, Zhaofu Zhang, Wei Yu, and Yuzheng Guo
 Email: xhwanrm@whu.edu.cn, yguo@whu.edu.cn, zz389@cam.ac.uk 
 # Major Features
