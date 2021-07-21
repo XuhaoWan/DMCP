@@ -7,15 +7,15 @@ from Models.KNR import KNR
 from Models.FNN import FNN
 from Models.SVR import SVR
 from Models.Lasso import LSO
-from ENR import ENR
-from GPR import GPR
-from ETR import ETR
-from MLP import MLP
-from Violin import plot_Violin
-from bar import plot_bar
-from scatter import plot_scatter
-from pearson import plot_pearson
-from pie import plot_pie
+from Models.ENR import ENR
+from Models.GPR import GPR
+from Models.ETR import ETR
+from Models.MLP import MLP
+from Visualization.Violin import plot_Violin
+from Visualization.bar import plot_bar
+from Visualization.scatter import plot_scatter
+from Visualization.pearson import plot_pearson
+from Visualization.pie import plot_pie
 import os
 import numpy as np
 from sklearn.model_selection import train_test_split, cross_val_score
