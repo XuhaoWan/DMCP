@@ -1,5 +1,8 @@
-# -*- coding:utf-8 -*- 
-#Author: xuhao wan, wei yu
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
+#author: xuhao wan, wei yu
+#If you use DMCP in your research, please cite the following paper:X. Wan, Z. Zhang*, W. Yu, Y. Guo*, A State-of-the-art Density-functional-theory-based and Machine-learning-accelerated Hybrid Method for Intricate System Catalysis. Materials Reports: Energy. 2021.
+
 from Models.RFR import RFR
 from Models.KRR import KRR
 from Models.GBR import GBR
