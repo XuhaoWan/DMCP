@@ -21,6 +21,7 @@ Our work applied DMCP are listed as following:
 # Tips
 Welcome to join the DMCP exchange Wechat group.
 欢迎加入DMCP微信交流群。
-![微信图片_20211011192114](https://user-images.githubusercontent.com/73831094/136782057-2624ff28-e7ce-4a79-b41a-d0e8f5120e22.jpg)
+
+![9eb7685d4afb615aaf0f70843d8895c](https://user-images.githubusercontent.com/73831094/146893430-46b61a00-f54d-423f-98b6-a8413216c8d5.jpg)
 
 If it is invalid, please contact us by Email.
