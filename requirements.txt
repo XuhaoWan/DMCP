@@ -2,7 +2,7 @@
 #Please install the following compiler in your operation system to run DMCP.
 numpy>=1.20.1
 scipy
-pytorch
+torch
 sklearn
 pandas
 matplotlib
