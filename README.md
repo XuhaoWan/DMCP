@@ -18,6 +18,8 @@ If you use DMCP in your research, please cite the following paper:
 Our work applied DMCP are listed as following:
 1. X. Wan, Z. Zhang*, H. Niu, Y. Yin, C. Kuai, J. Wang, C. Shao, Y. Guo*, Machine-Learning-Accelerated Catalytic Activity Predictions of Transition Metal Phthalocyanine Dual-Metal-Sites Catalysts for CO2 Reduction. The Journal of Physical Chemistry Letters, 2021.
 2. H. Niu#, X. Wan#, X. Wang, C. Chen, J. Robertson, Z. Zhang*, Y. Guo*, Single-Atom Rhodium on Defective g-C3N4: A Promising Bifunctional Oxygen Electrocatalyst. ACS Sustainable Chem. Eng., 9(9), 3590-3599, 2021.
+3. Wan X, Yu W, Niu H, ea al. Revealing the Oxygen Reduction/Evoluti on Reaction Activity Origin of Carbon-Nitride-Related Single-Atom catalysts: Quantum Chemistry in Artificial Intelligence. Chemical Engineering Journal. 2022，440:135946.
+
 # Tips
 Welcome to join the DMCP exchange Wechat group.
 欢迎加入DMCP微信交流群。
