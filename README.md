@@ -15,10 +15,17 @@ Email: xhwanrm@whu.edu.cn, yguo@whu.edu.cn, zz389@cam.ac.uk
 If you use DMCP in your research, please cite the following paper:
 1. X. Wan, Z. Zhang*, W. Yu, Y. Guo*, A State-of-the-art Density-functional-theory-based and Machine-learning-accelerated Hybrid Method for Intricate System Catalysis. Materials Reports: Energy. doi.org/10.1016/j.matre.2021.100046.
 # Reference
-Our work applied DMCP are listed as following:
-1. X. Wan, Z. Zhang*, H. Niu, Y. Yin, C. Kuai, J. Wang, C. Shao, Y. Guo*, Machine-Learning-Accelerated Catalytic Activity Predictions of Transition Metal Phthalocyanine Dual-Metal-Sites Catalysts for CO2 Reduction. The Journal of Physical Chemistry Letters, 2021.
-2. H. Niu#, X. Wan#, X. Wang, C. Chen, J. Robertson, Z. Zhang*, Y. Guo*, Single-Atom Rhodium on Defective g-C3N4: A Promising Bifunctional Oxygen Electrocatalyst. ACS Sustainable Chem. Eng., 9(9), 3590-3599, 2021.
-3. Wan X, Yu W, Niu H, ea al. Revealing the Oxygen Reduction/Evoluti on Reaction Activity Origin of Carbon-Nitride-Related Single-Atom catalysts: Quantum Chemistry in Artificial Intelligence. Chemical Engineering Journal. 2022，440:135946.
+The work applied DMCP are listed as following:
+1. Dou B, Zhu Z, Merkurjev E, et al. Machine learning methods for small data challenges in molecular science. Chemical Reviews, 2023, 123(13): 8736-8780.
+2. Tamtaji M, Gao H, Hossain M D, et al. Machine learning for design principles for single atom catalysts towards electrochemical reactions. Journal of Materials Chemistry A, 2022, 10(29): 15309-15331.
+3. Liu X, Zhang Y, Wang W, et al. Transition metal and N doping on AlP monolayers for bifunctional oxygen electrocatalysts: density functional theory study assisted by machine learning description. ACS Applied Materials & Interfaces, 2021, 14(1): 1249-1259.
+4. Huang Y, Rehman F, Tamtaji M, et al. Mechanistic understanding and design of non-noble metal-based single-atom catalysts supported on two-dimensional materials for CO 2 electroreduction. Journal of Materials Chemistry A, 2022, 10(11): 5813-5834.
+5. Liu T, Zhao X, Liu X, et al. Understanding the hydrogen evolution reaction activity of doped single-atom catalysts on two-dimensional GaPS4 by DFT and machine learning. Journal of Energy Chemistry, 2023, 81: 93-100.
+6. X. Wan, Z. Zhang*, H. Niu, Y. Yin, C. Kuai, J. Wang, C. Shao, Y. Guo*, Machine-Learning-Accelerated Catalytic Activity Predictions of Transition Metal Phthalocyanine Dual-Metal-Sites Catalysts for CO2 Reduction. The Journal of Physical Chemistry Letters, 2021.
+7. H. Niu#, X. Wan#, X. Wang, C. Chen, J. Robertson, Z. Zhang*, Y. Guo*, Single-Atom Rhodium on Defective g-C3N4: A Promising Bifunctional Oxygen Electrocatalyst. ACS Sustainable Chem. Eng., 9(9), 3590-3599, 2021.
+8. Wan X, Yu W, Niu H, ea al. Revealing the Oxygen Reduction/Evoluti on Reaction Activity Origin of Carbon-Nitride-Related Single-Atom catalysts: Quantum Chemistry in Artificial Intelligence. Chemical Engineering Journal. 2022，440:135946.
+16. Khrabrov K, Shenbin I, Ryabov A, et al. nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset. Physical Chemistry Chemical Physics, 2022, 24(42): 25853-25863.
+17. Pant D, Pokharel S, Mandal S, et al. DFT-aided machine learning-based discovery of magnetism in Fe-based bimetallic chalcogenides. Scientific Reports, 2023, 13(1): 3277.
 
 # Tips
 Welcome to join the DMCP exchange Wechat group.
